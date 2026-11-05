@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-- [Windows Event Logs Threat Hunting and Triage (HOME LAB)] (https://github.com/barresy20-creator/LABURL)
+- [Windows Event Logs Threat Hunting and Triage (HOME LAB)](https://github.com/barresy20-creator/LABURL)
  
 
 
